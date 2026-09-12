@@ -1,6 +1,6 @@
-# ⚙️ ArtisanROM Quick Setup Guide
+# ⚙️ ReNote ROM Quick Setup Guide
 
-This guide helps you understand how to set up your ArtisanROM build environment using the automated script provided.
+This guide helps you understand how to set up your ReNote ROM build environment using the automated script provided.
 
 ---
 
@@ -9,7 +9,7 @@ This guide helps you understand how to set up your ArtisanROM build environment 
 Run the following command in your terminal to get started:
 
 ```bash
-curl -fsSL -o artisan.sh https://raw.githubusercontent.com/ArtisanROM/ExtremeROM-UltraLegacy/refs/heads/fifteen/artisan.sh && bash artisan.sh
+curl -fsSL -o renote.sh https://raw.githubusercontent.com/AndroidCrazyRomTeamProjects/ReNote-Rom/refs/heads/fifteen/renote.sh && bash renote.sh
 ```
 
 ## 🚀 What the Installer Does
@@ -64,4 +64,4 @@ When the build finishes successfully:
 
 ---
 
-ArtisanROM - Build with style ⚙️📱
+ReNote - Build with style ⚙️📱

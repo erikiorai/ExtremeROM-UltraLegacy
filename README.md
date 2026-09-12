@@ -19,16 +19,16 @@
   </a>
 </p>
 
-<p align="center">ArtisanROM Ultra is a work-in-progress custom firmware for Samsung Galaxy devices.</p>
+<p align="center">ReNote-Rom is a work-in-progress custom firmware for Samsung Galaxy with exynos 9810 chips</p>
 <p align="center">
   <a href="https://github.com/ArtisanROM/ExtremeROM-UltraLegacy/wiki">📖 Wiki</a>
   <a href="https://github.com/ArtisanROM/ExtremeROM-UltraLegacy/blob/fifteen/MAINTAINERS.md">🧑‍💻 Maintainers</a>
 </p>
 
-# What is ArtisanROM Ultra?
-ArtisanROM Ultra is a work-in-progress custom firmware for Samsung Galaxy devices based on ExtremeROM. It's based on the latest and greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
+# What is ReNote-Rom?
+ReNote-Rom is a work-in-progress custom firmware for Samsung Galaxy devices with exynos 9810 chips. It's based on the latest and greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
 It is based on the UN1CA build system which allows automatic downloading/extraction of the firmware, applying the required patches and generating a flashable zip/tar package for the specified target device.
-ArtisanROM Ultra will support the Note9/Note10 Lite/S9/S9+ running an Exynos 9810 SoC
+ReNote-Rom will support the Note9/Note10 Lite/S9/S9+ running an Exynos 9810 SoC
 
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
 
@@ -56,7 +56,7 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 - Countless other small optimizations
 
 # Bugs
-See the <a href="https://github.com/ArtisanROM/ExtremeROM-UltraLegacy/issues">⚠ Issues</a> tab
+See the <a href="https://github.com/AndroidCrazyRomTeamProjects/ReNote-Rom/issues">⚠ Issues</a> tab
 
 # Licensing
 This project is licensed under the terms of the [GNU General Public License v3.0](LICENSE). External dependencies might be distributed under a different license, such as:
